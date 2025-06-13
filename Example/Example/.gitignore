@@ -1,0 +1,35 @@
+# Node dependencies (frontend + backend)
+**/node_modules/
+**/package-lock.json
+
+# Python virtual environments and caches
+**/venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VS Code settings
+.vscode/
+
+# Environment variables
+.env
+*.env
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Uploaded images (runtime)
+**/uploads/
+temp.jpg
+
+# Build and log files
+*.log
+
+# Expo & React Native specific
+.expo/
+.expo-shared/
+
+# Ignore test files (optional)
+**/__tests__/
